@@ -1,6 +1,6 @@
 1. can use any text editor to export bin path 
 nano ~/.bashrc
-2. find the commanded export as shown in bashrc and export
+2. export as shown in bashrc and export
 exmaple:
 
 export PATH=$PATH:/home/pop/blockchain/sampleDocker/BasicNetwork-2.0/bin
